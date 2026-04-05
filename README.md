@@ -11,3 +11,4 @@ This script will set your global hotkey to FN for dARKOSRE, just like AeolusUX/A
 
 ## Other details
 restore_ogage_r3.sh will restore the original R3 global hotkey from the ROMS partition's tool folder.
+You can also try to reboot your device to ensure the restoration.
