@@ -8,7 +8,7 @@ Somehow the change doesn't seem to be persistent. Ping me on discord if you know
 
 ## Instructions
 1. download as zip and extract.
-2. Copy Ogage folder, install_ogage_fn.sh and restore_ogage_r3.sh into your ROMS partition/tools of the SD card.
+2. Copy Ogage folder, install_ogage_fn.sh and restore_ogage_r3.sh into your ROMS partition/tools folder of the SD card.
 3. On your R36S, under Options > Tools, you should see the files you copied.
 4. Run install_ogage_fn.sh
 
